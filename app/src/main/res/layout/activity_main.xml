@@ -36,7 +36,8 @@
         android:layout_height="wrap_content"
         android:text="7"
         android:layout_below="@+id/editText"
-        android:textSize="30sp" />
+        android:textSize="30sp"
+        android:onClick="button_7_onClick"/>
 
     <Button
         android:id="@+id/button_8"
