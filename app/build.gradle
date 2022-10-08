@@ -4,6 +4,7 @@ plugins {
 
 android {
     compileSdk 32
+    dataBinding.enabled = true
 
     defaultConfig {
         applicationId "ru.gb.lesson2androidstudio"
